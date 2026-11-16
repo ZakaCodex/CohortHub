@@ -1,0 +1,11 @@
+{
+  "specialization": "علوم الحاسوب",
+  "batch": "26",
+  "level": "",
+  "theory_prefix": "CS2_G",
+  "practical_per_theory": [
+    3,
+    3,
+    3
+  ]
+}
