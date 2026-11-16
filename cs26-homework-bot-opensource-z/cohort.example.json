@@ -1,0 +1,12 @@
+{
+  "specialization": "هندسة البرمجيات",
+  "batch": "27",
+  "level": "المستوى الأول",
+  "theory_prefix": "SE1_G",
+  "practical_per_theory": [
+    2,
+    3,
+    2,
+    3
+  ]
+}
